@@ -1,0 +1,12 @@
+{
+  "ping": {
+    "target": "100.75.63.254",
+    "count": 10,
+    "interval_minutes": 10
+  },
+  "bandwidth": {
+    "enable": true
+  },
+  "log_dir": "logs",
+  "result_dir": "results"
+}
